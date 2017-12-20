@@ -1,0 +1,13 @@
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\bin\Debug\MyWallet.exe.config
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\bin\Debug\MyWallet.exe
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\bin\Debug\MyWallet.pdb
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.csprojResolveAssemblyReference.cache
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.Form1.resources
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.Form2.resources
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.Properties.Resources.resources
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.csproj.GenerateResource.Cache
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.csproj.CoreCompileInputs.cache
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.exe
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.pdb
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.Form3.resources
+C:\Users\Jan Kajszczak\Desktop\C#\MyWallet\MyWallet\obj\Debug\MyWallet.Form4.resources
